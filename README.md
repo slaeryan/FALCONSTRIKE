@@ -31,7 +31,7 @@ The ones mentioned in the list are the ones verified by the [testing team](https
 ![GIF demo](demo.gif)
 
 ## Usage
-There are many hard things in life but generating an implant shouldn't be one. This is the reason the `generate_implant.py` script has been created to make your life a breeze.
+There are many hard things in life, but generating an implant shouldn't be one. This is the reason the `generate_implant.py` script has been created to make your life a breeze.
 The process is as simple as:
 ```
 First generate your shellcode as a hex string
@@ -48,7 +48,7 @@ Follow the on-screen instructions and you'll find the output in `bin` directory 
 ![FalconZero v1.0 Antiscan Result](falcon_zero_antiscan.png "FalconZero v1.0 Antiscan Result")
 
 ## TO-DO
-This is an alpha release version and depending on the response many more upgrades to existing functionalities are coming soon.
+This is an alpha release version and depending on the response, many more upgrades to existing functionalities are coming soon.
 
 Some of them are:
 
